@@ -1,6 +1,10 @@
 ## Simple tic-toe game
 
-This game was created using React, Redux, LocalStorage API and SASS for styling.
+This game was recreated using React, Redux, LocalStorage API and SASS for styling.
+
+Official React docs for tic toe game:  https://reactjs.org/tutorial/tutorial.html
+
+
 
 ### Game rules: 
 
